@@ -1,0 +1,15 @@
+kali
+root
+admin
+password
+p@ssw0rd
+passw0rd
+p@ssword
+test
+guest
+access
+vm
+machine
+linux
+me
+this
